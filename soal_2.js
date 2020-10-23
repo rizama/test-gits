@@ -1,3 +1,4 @@
+const hello = ["H", "E", "L", "L", "O"]
 const firstname = ["R", "I", "Z", "K", "Y"]
 const lastname = ["S", "A", "M"]
 let result = []
